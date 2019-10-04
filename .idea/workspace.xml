@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e655208-9fd5-4a65-9f18-72d732068532" name="Default Changelist" comment="" />
+    <list default="true" id="8e655208-9fd5-4a65-9f18-72d732068532" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Rk1PUejvbLru5r8jmCFq2KWt64" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern1">
+  <component name="RunManager" selected="Application.Pattern2">
     <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern1" />
       <module name="PatternsProjects" />
@@ -72,10 +77,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern2" />
         <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.Pattern3" />
         <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.Pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570196258170</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit. &#10;Create a first pattern program.">
+      <created>1570210977383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570210977383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit. &#10;Create a first pattern program." />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit. &#10;Create a first pattern program." />
   </component>
 </project>
